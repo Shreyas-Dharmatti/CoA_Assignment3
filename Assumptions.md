@@ -1,6 +1,7 @@
 move $1,$2 $1=$2 
 This is a pseudo-instruction (provided by assembler, not processor!) Copy from register to register
 
+
 la $1,label $1=Address of label 
 this is a pseudo-instruction (provided by assembler, not processor!) Loads computed address of label (not its contents) into register load immediate
 
